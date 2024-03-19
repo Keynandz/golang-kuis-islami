@@ -1,7 +1,7 @@
 ## Getting Started
 
 ## DESKTOP INTERFACE
-![IMG](https://i.ibb.co/WDWPf5P/testing-bro.png)
+![IMG](https://i.ibb.co/MpkF48V/image-2024-03-19-090247947.png)
 
 Cek main.go lalu sesuaikan dengan settingan kalian
 
