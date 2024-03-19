@@ -1,0 +1,122 @@
+[
+    {
+        "ID": 1,
+        "Question": "Siapakah nama penemu angka 0 (nol) yang memberikan kontribusi besar dalam perkembangan matematika selama masa kejayaan Islam?",
+        "Options": ["Al-Khwarizmi", "Ibnu Sina", "Al-Jazari", "Al-Battani"],
+        "Answer": "Al-Khwarizmi"
+    },
+    {
+        "ID": 2,
+        "Question": "Apa nama bangunan megah yang dibangun pada masa kejayaan Islam di Spanyol yang menjadi pusat ilmu pengetahuan dan budaya pada saat itu?",
+        "Options": ["Alhambra", "Hagia Sophia", "Al-Aqsa", "Kubah Batu"],
+        "Answer": "Alhambra"
+    },
+    {
+        "ID": 3,
+        "Question": "Siapakah ilmuwan Muslim yang dikenal sebagai 'Bapak Optik' yang melakukan banyak penelitian dalam bidang optik pada masa kejayaan Islam?",
+        "Options": ["Ibnu al-Haitham", "Al-Kindi", "Al-Razi", "Ibnu Khaldun"],
+        "Answer": "Ibnu al-Haitham"
+    },
+    {
+        "ID": 4,
+        "Question": "Apakah nama yang dikenal sebagai 'Madrasah Baitul Hikmah', sebuah pusat ilmu pengetahuan yang terkenal di Baghdad pada masa kejayaan Islam?",
+        "Options": ["House of Wisdom", "Al-Azhar", "University of Qarawiyyin", "Nalanda"],
+        "Answer": "House of Wisdom"
+    },
+    {
+        "ID": 5,
+        "Question": "Siapakah yang merupakan pelopor dalam pengembangan sistem angka desimal dan pengenalan konsep nol (nol) pada masa kejayaan Islam?",
+        "Options": ["Al-Khwarizmi", "Ibnu Sina", "Al-Jazari", "Al-Battani"],
+        "Answer": "Al-Khwarizmi"
+    },
+    {
+        "ID": 6,
+        "Question": "Kitab manakah yang ditulis oleh Ibnu Sina yang menjadi salah satu karya terpenting dalam sejarah filsafat kedokteran?",
+        "Options": ["Al-Qanun fi al-Tibb", "Tafsir Ibnu Katsir", "Al-Tashrif", "Zubdat al-Tawarikh"],
+        "Answer": "Al-Qanun fi al-Tibb"
+    },
+    {
+        "ID": 7,
+        "Question": "Siapakah penulis Kitab Al-Jabr wal-Muqabalah yang merupakan salah satu karya penting dalam perkembangan matematika?",
+        "Options": ["Al-Khwarizmi", "Ibnu Sina", "Al-Jazari", "Al-Battani"],
+        "Answer": "Al-Khwarizmi"
+    },
+    {
+        "ID": 8,
+        "Question": "Apakah nama kota yang menjadi pusat perdagangan dan ilmu pengetahuan pada masa kejayaan Islam di Jazirah Arab?",
+        "Options": ["Baghdad", "Cairo", "Damaskus", "Kufah"],
+        "Answer": "Baghdad"
+    },
+    {
+        "ID": 9,
+        "Question": "Apa nama sistem pendidikan yang berkembang pesat pada masa kejayaan Islam yang mencakup studi agama, ilmu pengetahuan, dan filsafat?",
+        "Options": ["Madrasah", "Maktab", "Hawza", "Madrassa"],
+        "Answer": "Madrasah"
+    },
+    {
+        "ID": 10,
+        "Question": "Kitab manakah yang ditulis oleh Ibnu Khaldun yang membahas sejarah dunia dan metodologi ilmiah dalam riset sejarah?",
+        "Options": ["Al-Muqaddimah", "Al-Qanun fi al-Tibb", "Tafsir Ibnu Katsir", "Zubdat al-Tawarikh"],
+        "Answer": "Al-Muqaddimah"
+    },
+    {
+        "ID": 11,
+        "Question": "Apakah nama masjid yang menjadi simbol kejayaan arsitektur Islam dan dianggap sebagai salah satu bangunan paling indah di dunia?",
+        "Options": ["Masjid Katedral Cordoba", "Masjid Hagia Sophia", "Masjid Al-Aqsa", "Masjid Al-Haram"],
+        "Answer": "Masjid Katedral Cordoba"
+    },
+    {
+        "ID": 12,
+        "Question": "Siapakah ilmuwan Muslim yang dikenal sebagai 'Bapak Kimia' yang melakukan banyak penelitian dalam bidang kimia pada masa kejayaan Islam?",
+        "Options": ["Al-Razi", "Ibnu al-Haitham", "Al-Kindi", "Ibnu Khaldun"],
+        "Answer": "Al-Razi"
+    },
+    {
+        "ID": 13,
+        "Question": "Apakah nama sistem irigasi yang diperkenalkan oleh ilmuwan Muslim pada masa kejayaan Islam yang memiliki dampak besar dalam pertanian?",
+        "Options": ["Qanat", "Aqueduct", "Siphon", "Reservoir"],
+        "Answer": "Qanat"
+    },
+    {
+        "ID": 14,
+        "Question": "Siapakah penulis Kitab Al-Jazari yang merupakan salah satu karya penting dalam bidang teknik dan ilmu pengetahuan pada masa kejayaan Islam?",
+        "Options": ["Al-Jazari", "Al-Khwarizmi", "Ibnu Sina", "Al-Battani"],
+        "Answer": "Al-Jazari"
+    },
+    {
+        "ID": 15,
+        "Question": "Apa nama institusi pendidikan tertua yang didirikan di Fes, Maroko, dan masih berfungsi hingga sekarang?",
+        "Options": ["University of Qarawiyyin", "Al-Azhar University", "House of Wisdom", "Nalanda University"],
+        "Answer": "University of Qarawiyyin"
+    },
+    {
+        "ID": 16,
+        "Question": "Apakah nama kota yang menjadi pusat ilmu pengetahuan dan kebudayaan pada masa kejayaan Islam di Spanyol?",
+        "Options": ["Cordoba", "Granada", "Seville", "Toledo"],
+        "Answer": "Cordoba"
+    },
+    {
+        "ID": 17,
+        "Question": "Siapakah ilmuwan Muslim yang menemukan prinsip hukum bacaan pada cahaya yang membentuk dasar bagi banyak peralatan optik modern?",
+        "Options": ["Ibnu al-Haitham", "Al-Razi", "Ibnu Khaldun", "Al-Kindi"],
+        "Answer": "Ibnu al-Haitham"
+    },
+    {
+        "ID": 18,
+        "Question": "Apakah nama bangunan megah yang dibangun pada masa kejayaan Islam di India yang menjadi simbol kebesaran arsitektur Islam?",
+        "Options": ["Taj Mahal", "Qutub Minar", "Hawa Mahal", "Red Fort"],
+        "Answer": "Taj Mahal"
+    },
+    {
+        "ID": 19,
+        "Question": "Siapakah ilmuwan Muslim yang menulis Kitab Al-Tashrif, yang membahas bidang kedokteran dan bedah pada masa kejayaan Islam?",
+        "Options": ["Al-Zahrawi", "Ibnu Sina", "Al-Biruni", "Al-Kindi"],
+        "Answer": "Al-Zahrawi"
+    },
+    {
+        "ID": 20,
+        "Question": "Siapakah penulis karya 'Al-Tashrih al-Badan' yang merupakan salah satu karya penting dalam bidang anatomi pada masa kejayaan Islam?",
+        "Options": ["Al-Zahrawi", "Ibnu Sina", "Al-Biruni", "Al-Kindi"],
+        "Answer": "Al-Zahrawi"
+    }
+]
